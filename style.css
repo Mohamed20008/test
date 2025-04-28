@@ -135,6 +135,6 @@ nav ul li a:hover {
         flex-direction: row;
     }
     .auth-buttons a{
-        font-size: 14px;
+        font-size: 10px;
     }
 }
